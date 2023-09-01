@@ -2,3 +2,6 @@ Squirtile
 Mudkip
 PALPITOD
 Magikarp
+Seadra
+Pukomoko
+Buizel
